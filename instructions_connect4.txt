@@ -1,0 +1,24 @@
+*** Developer-Portfolio   ***
+*** Mathias Muenscher     *** 
+Student for Applied Informatics, HTW Berlin,
+Diplom-Volkswirt (MSc Econ)
+Email:
+Mathias.Muenscher@gmx.de
+
+*** Program: Connect 4 ***
+Mission:
+This game runs on to J2ME mobile phones. It conncets via Bluetooth and allows sequential moves. Eventually it declares the winner (or game-tie).
+
+Compiling:
+Use Netbeans with J2ME support. Load the project and make shure that project configuration (default conf.) is set on emulator platform J2ME SDK 3.0.
+
+Run program:
+1. Start program with "run with" (right mouse-click on project-icon). Choose the
+- DefaultCldcPhone1
+- DefaultCldcPhone2
+Now two Java phone-emulators will appear.
+2. Set one phone to server and the other to client. The virtual bluetooth connection might take a couple of seconds.
+Then the game starts.
+
+Documentation:
+Screenshot
